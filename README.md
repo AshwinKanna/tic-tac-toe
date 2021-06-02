@@ -16,3 +16,9 @@ The old school game tried with a different User Interface and simplicity
     ```
     python scripts/init_app.py
     ```
+
+### Some Screenshots of the Game
+![Homepage](Images/homepage.png)
+![Gameplay](Images/gameplay_1.png)
+![Gameplay](Images/gameplay_2.png)
+![Gameplay](Images/gameplay_3.png)
